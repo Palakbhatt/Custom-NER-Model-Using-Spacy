@@ -17,5 +17,4 @@ Applications of NER:
 3. Classify the data of News Sources.
 4. Optimizing the Search Engine Algorithms.
 
-Conclusion:
-We have taken just 10 records to train the model. For better accuracy and precision, we need to have a huge amount of annotated data to train a model.
+
