@@ -2,7 +2,7 @@ Custom NER Model Using Spacy
 
 In this repository I have added a label to the entity list by annotating data and then tested it on an unseen data.
 
-SUMMARY OF ALL THE STEPS:
+STEPS:
 1. Loaded a spaCy model and checked if it has ner pipeline.
 2. Since no entities were found in the Doc object, we customized the NER model for detecting the job_role from the job posts.
 3. Annotated the data to train the model.
